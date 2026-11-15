@@ -1,0 +1,6 @@
+{
+  "name": "Personal Life OS",
+  "description": "Персональна операційна система управління життям, часом, фінансами, цілями Kaizen та особистим розвитком із 2.5D ігровим світом та AI-коучем.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
